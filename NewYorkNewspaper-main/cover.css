@@ -1,0 +1,25 @@
+.cover {
+  width: 350px;
+  height: 500px;
+  background-color:grey;
+}
+#title {
+  padding-top: 25px;
+  font-size: 42px;
+  text-align: center;
+  margin: 0px;
+}
+
+#subtitle {
+  color: aqua;
+  text-align: right;
+  font-size: 18px;
+  margin: 15px;
+  padding-right:70px;
+
+}
+
+#cover_image {
+  height: 250px;
+  width: 300px;
+}
