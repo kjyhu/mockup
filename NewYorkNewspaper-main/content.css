@@ -1,34 +1,55 @@
 .page {
-  width: 450px;
-  height: 700px;
+  width: 500px;
+  height: 750px;
   background-color:rgba(211, 208,203);
 }
 
 #article_title {
+  font-size: 40px;
   text-align: center;
   color:rgba(70, 18, 32);
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  padding: 20px;
+  padding-top: 20px;
 }
 
 #intro {
+  padding-left: 20px;
+  padding-right: 20px;
+  line-height: 30px;
+  font-size: 15px;
   color:#8c2f39;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 .question{
-  color:#839788;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 0;
+  margin-bottom: 0;
+  font-size: 15px;
+  color:#4c5760;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
 
 .answer{
-  color: #839788;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 15px;
+  padding-top: 0;
+  margin-top: 0;
+  color: #4c5760;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 #block_quote {
+  margin: 15px;
+  margin-left: 80px;
+  padding-left: 10px;
+  line-height: 30px;
+  border-left: solid;
+  border-color: #4c5760;
+  font-size: 22px;
   color:#8c2f39;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-
 }
