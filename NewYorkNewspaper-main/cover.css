@@ -4,6 +4,7 @@
   background-color:grey;
 }
 #title {
+  font-family:'Courier New', Courier, monospace;
   padding-top: 25px;
   font-size: 42px;
   text-align: center;
@@ -11,15 +12,15 @@
 }
 
 #subtitle {
-  color: aqua;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(0, 255, 255);
   text-align: right;
   font-size: 18px;
   margin: 15px;
   padding-right:70px;
-
 }
 
 #cover_image {
-  height: 250px;
-  width: 300px;
+  width: 75%;
+  margin: 45px;
 }
